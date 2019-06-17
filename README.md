@@ -20,7 +20,7 @@ no out-of-vocabulary word, 3000-8000 vocabulary size, quick in training, suitabl
 
 * Change the ROOT_DIR = '/data1/zlx2/topical_wordvec_models' in ~/topical_wordvec_models/src/settings.py to your directory.
 
-* Change the on_cuda = True if you wanna run the program on GPU
+* Change the on_cuda = True in ~/topical_wordvec_models/src/settings.py if you wanna run the program on GPU
 
 * Open terminal in ~/topical_wordvec_models/src/, Run ``python train.py''
 
