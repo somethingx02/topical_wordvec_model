@@ -1,6 +1,9 @@
 # topical_wordvec_model
 no out-of-vocabulary word, 3000-8000 vocabulary size, quick in training, suitable for visualization
 
+## Quick Start
+* If you wanna run a pretrained model on your laptop, Jump to ``Discovered Topics and Word embeddings''
+
 ## Download the yelp dataset
 
 * Go to https://www.yelp.com/dataset/download to download the .7z file

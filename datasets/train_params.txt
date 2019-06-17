@@ -1,0 +1,4 @@
+DocumentCount: 82305
+DocumentSeqLen: 630
+TrainInstances: 4631344
+VocabularySize: 8000
