@@ -35,4 +35,4 @@ no out-of-vocabulary word, 3000-8000 vocabulary size, quick in training, suitabl
 
 * Open terminal in ~/topical_wordvec_models/src/, Run ``python main_compute_wordvec.py''
 
-* See ~/topical_wordvec_models/save/??/aggrd_all_wordrep.txt for the word representations in the format: <word> 0.??? 0.??? 0.??? ... 0.???
+* See ~/topical_wordvec_models/save/??/aggrd_all_wordrep.txt for the word representations in the format: word 0.??? 0.??? 0.??? ... 0.???
