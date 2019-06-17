@@ -23,6 +23,8 @@ no out-of-vocabulary word, 3000-8000 vocabulary size, quick in training, suitabl
 
 ## Discovered Topics and Word embeddings
 
+* Open ~/topical_wordvec_models/src/settings.py to change the on_cuda to False if you are running this section on your laptop.
+
 ### Topics
 
 * Open terminal in ~/topical_wordvec_models/src/, Run ``python main_visualization_of_words_and_topics.py''
